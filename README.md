@@ -1,1 +1,2 @@
-# Chisel-Image-Skeletonization
+# Chisel-Global-Service-Configs
+Shared configs between services
