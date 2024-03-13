@@ -10,7 +10,7 @@
         }
     },
 
-    "character-training": {
+    "character-trainer": {
         "development": {
             "http": 5001,
             "https": 3001
