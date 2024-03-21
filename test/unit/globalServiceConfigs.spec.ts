@@ -16,7 +16,7 @@ describe('globalServiceConfigs', () => {
             expect(servicePorts).toEqual({ http: 5000, https: 3000 });
         });
 
-        it('for character-trainer service developement should return 5001 and 3001', () => {
+        it('for character-trainer service development should return 5001 and 3001', () => {
             const servicePorts = getServicePorts('character-trainer', 'development');
             expect(servicePorts).toEqual({ http: 5001, https: 3001 });
         });
