@@ -4,6 +4,10 @@
             "http": 5000,
             "https": 3000
         },
+        "local": {
+            "http": 5000,
+            "https": 3000
+        },
         "production": {
             "http": 5000,
             "https": 3000
@@ -12,6 +16,10 @@
 
     "character-trainer": {
         "development": {
+            "http": 5001,
+            "https": 3001
+        },
+        "local": {
             "http": 5001,
             "https": 3001
         },
