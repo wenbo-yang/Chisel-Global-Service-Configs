@@ -27,7 +27,7 @@
             "https": 3000
         }
     },
-    "image-preprocessing": {
+    "image-preprocessor": {
         "development": {
             "http": 5002,
             "https": 3002
