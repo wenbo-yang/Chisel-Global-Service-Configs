@@ -13,7 +13,6 @@
             "https": 3000
         }
     },
-
     "character-trainer": {
         "development": {
             "http": 5001,
@@ -27,5 +26,19 @@
             "http": 5000,
             "https": 3000
         }
-    }
+    },
+    "image-preprocessing": {
+        "development": {
+            "http": 5002,
+            "https": 3002
+        },
+        "local": {
+            "http": 5002,
+            "https": 3002
+        },
+        "production": {
+            "http": 5000,
+            "https": 3000
+        }
+    },
 }
