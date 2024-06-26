@@ -41,7 +41,7 @@
             "https": 3000
         }
     },
-    "char-data-prepararer": {
+    "char-data-preparer": {
         "development": {
             "http": 5003,
             "https": 3003
