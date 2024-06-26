@@ -40,5 +40,19 @@
             "http": 5000,
             "https": 3000
         }
+    },
+    "char-data-prepararer": {
+        "development": {
+            "http": 5003,
+            "https": 3003
+        },
+        "local": {
+            "http": 5003,
+            "https": 3003
+        },
+        "production": {
+            "http": 5000,
+            "https": 3000
+        }
     }
 }
